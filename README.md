@@ -41,13 +41,13 @@ Here are a few of my featured projects:
 
 ## 🔗 Live Demo
 Check out my live portfolio here 👇  
-👉 [https://yourusername.github.io](https://yourusername.github.io)
+👉 [https://aiswarialakshmis.github.io](https://aiswarialakshmis.github.io)
 
 ---
 
 ## 📬 Contact Me
-📧 **Email:** yourname@email.com  
-🌐 **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+📧 **Email:** saiswarialakshmi@gmail.com  
+🌐 **GitHub:** [https://github.com/aiswarialakshmis](https://github.com/aiswarialakshmis)
 
 ---
 
